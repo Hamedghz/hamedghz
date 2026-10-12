@@ -24,7 +24,7 @@ I focus on turning complex operational challenges into **reliable, scalable, sec
 
 **Grade III — Licensed ICT Consultant**
 
-Professional consultancy qualification issued by the Information and Communication Technology Guild Organization of Sistan and Baluchestan Province, Iran.
+Professional consultancy qualification issued by the Information and Communication Technology Guild Organization, Iran.
 
 Authorized specializations:
 - **Artificial Intelligence & Data Analytics**
